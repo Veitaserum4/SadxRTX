@@ -1,3 +1,3 @@
-Sonic Adventure RTX updater
-Not the full mod
+Sonic Adventure RTX Dev version
+Get the packaged mod here:
 https://gamebanana.com/wips/84764
